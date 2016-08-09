@@ -1,0 +1,70 @@
+body {
+  background: #EBEBEB;
+  color: rgb(30, 30, 30);
+  font-family: 'Open Sans', sans-serif;
+  font-size: 17px;
+  font-weight: lighter;
+}
+
+h1{
+  font-family: 'Montserrat', sans-serif;
+  color: #DF6363;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  color: #7D7D7D;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #7D7D7D;
+}
+
+a{
+  text-decoration: none;
+  color: #B3B3B3;
+}
+
+a:hover {
+  color: #E17474;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+.text-center{
+  text-align: center;
+}
+.card-white {
+  background: white;
+  padding: 30px;
+  border: 1px solid lightgrey;
+}
+
+.container {
+  width: 500px;
+  margin: 0 auto;
+}
+
+
+.btn-red {
+    background-color: #DD5555;
+    padding: 10px;
+    border-radius: 4px;
+    color: white;
+}
+.text-inline li{
+  display: inline-block;
+  padding: 0px 20px;
+}
+p {
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 1.6em;
+}
+
+.img-padding {
+  padding: 10px 20px 0px 0px;
+}
+/* Here goes your CSS */
